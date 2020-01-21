@@ -25,7 +25,7 @@ webデザイナー志望ですので少しでも興味を持って頂けたら�
 - [pixiv](http://www.pixiv.net/member.php?id=16254830)
 
 # Contact
-- [Mail](mailto:naganagamax@gmail.com)
+- naganagamax@gmail.com
 
 # History
 学歴、職歴、アルバイト、インターン経験など。
