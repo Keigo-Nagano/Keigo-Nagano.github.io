@@ -16,7 +16,7 @@
 - Java
 - 資格
   - Java SE 8 Silver
-  - ITパスポート
+  - ITパスポート  
   
 # Works
 [GitHub](Keigo-Nagano.github.io)
