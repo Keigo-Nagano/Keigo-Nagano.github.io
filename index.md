@@ -14,8 +14,9 @@
 - CSS3
 - JavaScript
 - Java
-- 資格 Java SE 8 Silver,ITパスポート
-
+- 資格
+  - Java SE 8 Silver
+  - ITパスポート
 # Works
 アピールできる活動内容を書きましょう。
 - [GitHub](GitHubのURL)
