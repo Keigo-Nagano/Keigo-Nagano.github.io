@@ -1,4 +1,4 @@
-![プロフィール写真](191206001.jpg)
+<img src="https://github.com/Keigo-Nagano/Keigo-Nagano.github.io/blob/master/%20191206001.jpg?raw=true" width="200">
 
 # About
 絵を描くのが好きなプログラミング初学者です。  
